@@ -33,8 +33,13 @@ Epoch   gpu_mem       box       obj       cls    labels  img_size
      78/79     3.34G   0.03047   0.01523         0         5       608: 100% 4/4 [00:06<00:00,  1.60s/it]
                Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 2/2 [00:01<00:00,  1.13it/s]
                  all         50         51      0.889       0.94      0.925      0.496
+                 
+                 
 
      Epoch   gpu_mem       box       obj       cls    labels  img_size
      79/79     3.34G   0.03604   0.01735         0         5       608: 100% 4/4 [00:06<00:00,  1.60s/it]
                Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 2/2 [00:01<00:00,  1.35it/s]
                  all         50         51          1          1      0.995      0.729
+                 
+  ## result obtained on the test image
+![](test2.jpg)

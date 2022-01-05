@@ -42,4 +42,4 @@ Epoch   gpu_mem       box       obj       cls    labels  img_size
                  all         50         51          1          1      0.995      0.729
                  
   ## result obtained on the test image
-![](test2.jpg)
+![](/images/test2.jpg)

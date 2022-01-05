@@ -21,3 +21,20 @@ Epoch   gpu_mem       box       obj       cls    labels  img_size
            
 ## result obtained on the test image
 ![](test1.jpg)
+
+### Experiment 2: same set of images but trained for 80 epochs
+### Result obtained: The precision obtained is 100% and recall obtained is 100%
+ Epoch   gpu_mem       box       obj       cls    labels  img_size
+     77/79     3.34G   0.02959   0.01439         0         2       608: 100% 4/4 [00:05<00:00,  1.47s/it]
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 2/2 [00:01<00:00,  1.29it/s]
+                 all         50         51      0.877       0.98      0.936      0.582
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+     78/79     3.34G   0.03047   0.01523         0         5       608: 100% 4/4 [00:06<00:00,  1.60s/it]
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 2/2 [00:01<00:00,  1.13it/s]
+                 all         50         51      0.889       0.94      0.925      0.496
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+     79/79     3.34G   0.03604   0.01735         0         5       608: 100% 4/4 [00:06<00:00,  1.60s/it]
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 2/2 [00:01<00:00,  1.35it/s]
+                 all         50         51          1          1      0.995      0.729

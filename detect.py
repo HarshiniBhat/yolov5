@@ -75,6 +75,7 @@ def run(weights=ROOT / 'yolov5s.pt',  # model.pt path(s)
     (save_dir / 'labels' if save_txt else save_dir).mkdir(parents=True, exist_ok=True)  # make dir
 
     # Load model
+
     device = select_device(device)
     model = DetectMultiBackend(weights, device=device, dnn=dnn)
     stride, names, pt, jit, onnx, engine = model.stride, model.names, model.pt, model.jit, model.onnx, model.engine

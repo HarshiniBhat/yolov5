@@ -12,7 +12,7 @@
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect.py" />
-    <option name="PARAMETERS" value="--source &quot;E:\work\Mask_detect\test\test.jpg&quot; --weights &quot;E:\work\Mask_detect\weights\best.pt&quot;" />
+    <option name="PARAMETERS" value="--source &quot;E:\work\Mask_detect\test\test13.jpg&quot; --weights &quot;E:\work\Mask_detect\weights\best2.pt&quot;" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />
     <option name="MODULE_MODE" value="false" />

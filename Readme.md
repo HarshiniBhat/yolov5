@@ -71,4 +71,4 @@ Result: The precision obtained is 74% and recall obtained is 85%
 i.e 1161 Training images and 290 validation images with 40 epochs
 Result: the precision obtained is 88% and recall obtained is 84% and mAP is 88.6
 
-![](/tested/test2.jpg)
+![](/tested/tested1.jpg)

@@ -67,8 +67,25 @@ Result: The precision obtained is 74% and recall obtained is 85%
 ![](/images/test.jpg)
 
 
+
+
 ### Experiment 3 Trained with more number of images 
 i.e 1161 Training images and 290 validation images with 40 epochs
 Result: the precision obtained is 88% and recall obtained is 84% and mAP is 88.6
 
+![](/tested/test.jpg)
+
+### Experiment 4 
+Tested different images using the weights of the trained model
+![](/tested/test.jpg)
+![](/tested/test2.jpg)
+![](/tested/test3.jpg)
+![](/tested/test4.jpg)
+![](/tested/test5.jpg)
+![](/tested/test6.jpg)
+![](/tested/test7.jpg)
+![](/tested/test8.jpg)
+![](/tested/test9.jpg)
+![](/tested/test10.jpg)
+![](/tested/test11.jpg)
 ![](/tested/tested1.jpg)

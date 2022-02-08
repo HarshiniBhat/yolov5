@@ -94,4 +94,10 @@ Tested different images using the weights of the trained model
 
 ### Experiment 5 
 Trained the model for three clases i.e 'mask' , 'no-mask' and' 'improper- mask'
-![]()
+![](/images/2020072-toronto-face-masks (1).jpg)
+![](/images/)
+![](/images/)
+![](/images/)
+![](/images/)
+![](/images/)
+![](/images/)

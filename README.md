@@ -106,12 +106,12 @@ Results obtained for the last 2 epochs
                Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 1/1 [00:00<00:00,  1.46it/s]
                  all         24        135      0.882      0.786      0.762      0.552
 
-![](/images/2020072-toronto-face-masks (1).jpg)
+![](/images/2020072-toronto-face-masks(1).jpg)
 ![](/images/Mask_678.jpg)
 ![](/images/Mask_677.jpg)
-![](/images/download (1).jpg)
+![](/images/download(1).jpg)
 ![](/images/Mask_676.jpg)
 ![](/images/Mask_675.jpg)
-![](/images/images (1).jpg)
+![](/images/images(1).jpg)
 
 

@@ -93,11 +93,25 @@ Tested different images using the weights of the trained model
 
 
 ### Experiment 5 
-Trained the model for three clases i.e 'mask' , 'no-mask' and' 'improper- mask'
+Trained the model for three clases i.e 'mask' , 'no-mask' and' 'improper- mask' for 60 epochs
+
+Results obtained for the last 2 epochs
+  Epoch   gpu_mem       box       obj       cls    labels  img_size
+     58/59     3.23G   0.02132   0.02662  0.002273        95       608: 100% 41/41 [01:05<00:00,  1.59s/it]
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 1/1 [00:00<00:00,  1.48it/s]
+                 all         24        135      0.626      0.786      0.633      0.448
+
+     Epoch   gpu_mem       box       obj       cls    labels  img_size
+     59/59     3.23G   0.02122   0.02837  0.002244       157       608: 100% 41/41 [01:07<00:00,  1.64s/it]
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 1/1 [00:00<00:00,  1.46it/s]
+                 all         24        135      0.882      0.786      0.762      0.552
+
 ![](/images/2020072-toronto-face-masks (1).jpg)
-![](/images/)
-![](/images/)
-![](/images/)
-![](/images/)
-![](/images/)
-![](/images/)
+![](/images/Mask_678.jpg)
+![](/images/Mask_677.jpg)
+![](/images/download (1).jpg)
+![](/images/Mask_676.jpg)
+![](/images/Mask_675.jpg)
+![](/images/images (1).jpg)
+
+

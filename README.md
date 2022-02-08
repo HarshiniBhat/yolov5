@@ -89,3 +89,9 @@ Tested different images using the weights of the trained model
 ![](/tested/test10.jpg)
 ![](/tested/test11.jpg)
 ![](/tested/tested1.jpg)
+
+
+
+### Experiment 5 
+Trained the model for three clases i.e 'mask' , 'no-mask' and' 'improper- mask'
+![]()

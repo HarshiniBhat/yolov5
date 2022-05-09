@@ -34,6 +34,8 @@ Epoch   gpu_mem       box       obj       cls    labels  img_size
                Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 2/2 [00:01<00:00,  1.13it/s]
                  all         50         51      0.889       0.94      0.925      0.496
                  
+### These show the different results for different epochs
+                 
                  
 
      Epoch   gpu_mem       box       obj       cls    labels  img_size
